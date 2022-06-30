@@ -2,6 +2,7 @@ import React from 'react';
 import { Link, Outlet } from 'react-router-dom';
 import './App.css';
 
+// https://reactrouter.com/docs/en/v6/getting-started/tutorial
 function App() {
   return (
     <React.Fragment>
